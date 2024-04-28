@@ -1,5 +1,3 @@
-// Created by Caio Mendes Ribeiro da Rosa
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "Algoritmos.h"

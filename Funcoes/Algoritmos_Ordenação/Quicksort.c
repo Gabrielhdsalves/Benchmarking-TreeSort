@@ -1,7 +1,3 @@
-//
-// Created by Gabriel Alves on 20/04/2024.
-//
-#include <stdio.h>
 #include "Algoritmos.h"
 
 int particiona(int V[], int inicio, int fim,long double comparacoes[],long double trocas[],int cod) {

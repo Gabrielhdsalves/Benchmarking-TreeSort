@@ -1,8 +1,3 @@
-//
-// Created by Gabriel Alves on 03/04/2024.
-//
-#include <stdio.h>
-#include <stdlib.h>
 #include "Algoritmos.h"
 
 int sequencial(int vetor[], long double *comparacoes,int inicio, int tam) {

@@ -1,5 +1,7 @@
 typedef struct metricas metricas;
 
+// Essas funcoes criam uma tabela 
+
 void selectionTabela(int *tam, metricas *m,int n);
 
 void inserctionTabela(int *tam, metricas *m,int n);
