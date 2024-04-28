@@ -52,8 +52,7 @@ void menu(){
           default:
               printf("Valor invalido.\n");
               getchar();
-              break;
-             
+              break;         
       }
     }while(cod !=0);
     free(tam);

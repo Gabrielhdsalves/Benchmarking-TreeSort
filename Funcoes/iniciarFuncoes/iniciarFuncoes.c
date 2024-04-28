@@ -318,7 +318,6 @@ void iniciarFuncoes_quick(int *tam, int n, int porcentagem) {
         quick_metricas[0].trocas[i] = (quick_metricas[0].trocas[i] / 5);
         quick_metricas[0].comparacoes[i] = (quick_metricas[0].comparacoes[i] / 5);
 
-        printf ("Terminei Aleatorio %d\n", tam[i]);
 
         // Crescente
         vetor = geraOrdenados(tam[i], 0);
@@ -326,7 +325,6 @@ void iniciarFuncoes_quick(int *tam, int n, int porcentagem) {
         free(vetor);
         quick_metricas[1].tempo[i] = tempo_soma;
 
-        printf ("Terminei Crescente %d\n", tam[i]);
 
         // Decrescente
         vetor = geraOrdenados(tam[i], 1);
@@ -334,7 +332,6 @@ void iniciarFuncoes_quick(int *tam, int n, int porcentagem) {
         free(vetor);
         quick_metricas[2].tempo[i] = tempo_soma;
 
-        printf ("Terminei Decrescente %d\n", tam[i]);
 
         // Quase ordenados
         tempo_soma = 0;
@@ -342,13 +339,11 @@ void iniciarFuncoes_quick(int *tam, int n, int porcentagem) {
             vetor = geraQuaseOrdenados(tam[i], porcentagem);
             tempo_soma += calculaTempo(vetor, i, 3, quick_metricas, tam,COD_QUICK);
             free(vetor);
-            printf ("Terminei quase ordenado %d %d\n", tam[i], j);
         }
 
         quick_metricas[3].tempo[i] = tempo_soma / 5;
         quick_metricas[3].trocas[i] = (quick_metricas[3].trocas[i] / 5);
         quick_metricas[3].comparacoes[i] = (quick_metricas[3].comparacoes[i] / 5);
-        printf ("Terminei quase ordenado %d\n", tam[i]);
     }
 
     quickTabela(tam, quick_metricas, n);
@@ -406,7 +401,6 @@ void iniciarFuncoes_tree(int *tam, int n, int porcentagem) {
         treesort_metricas[0].trocas[i] = (treesort_metricas[0].trocas[i] / 5);
         treesort_metricas[0].comparacoes[i] = (treesort_metricas[0].comparacoes[i] / 5);
 
-        printf ("Tree Terminei aleatório %d\n", tam[i]);
 
         // Crescente
         vetor = geraOrdenados(tam[i], 0);
@@ -414,7 +408,6 @@ void iniciarFuncoes_tree(int *tam, int n, int porcentagem) {
         free(vetor);
         treesort_metricas[1].tempo[i] = tempo_soma;
 
-        printf ("Tree Terminei Crescente %d\n", tam[i]);
 
         // Decrescente
         vetor = geraOrdenados(tam[i], 1);
@@ -422,7 +415,6 @@ void iniciarFuncoes_tree(int *tam, int n, int porcentagem) {
         free(vetor);
         treesort_metricas[2].tempo[i] = tempo_soma;
 
-        printf ("Tree Terminei Decrescente %d\n", tam[i]);
 
         // Quase ordenados
         tempo_soma = 0;
@@ -430,7 +422,6 @@ void iniciarFuncoes_tree(int *tam, int n, int porcentagem) {
             vetor = geraQuaseOrdenados(tam[i], porcentagem);
             tempo_soma += calculaTempo(vetor, i, 3, treesort_metricas, tam, COD_TREE);
             free(vetor);
-            printf ("Tree Terminei quase ordenado %d %d\n", tam[i], j);
         }
         treesort_metricas[3].tempo[i] = tempo_soma / 5;
         treesort_metricas[3].trocas[i] = (treesort_metricas[3].trocas[i] / 5);
