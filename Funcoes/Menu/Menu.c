@@ -40,14 +40,20 @@ void menu(){
           case 5:
               iniciarFuncoes_tree(tam,n,porcentagem);
               break;
-          case 0:
-              break;
-          default:
+          case 6:
               iniciarFuncoes_selection(tam,n,porcentagem);
               iniciarFuncoes_inserction(tam,n,porcentagem);
               iniciarFuncoes_merge(tam,n,porcentagem);
               iniciarFuncoes_quick(tam,n,porcentagem);
               iniciarFuncoes_tree(tam,n,porcentagem);
+              break;
+          case 0:
+              break;
+          default:
+              printf("Valor invalido.\n")
+              getchar();
+              break
+             
       }
     }while(cod !=0);
     free(tam);
