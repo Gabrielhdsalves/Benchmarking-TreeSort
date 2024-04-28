@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "Menu.h"
-#include "iniciarFuncoes/iniciarFuncoes.h"
+#include "iniciarFuncoes.h"
 
 void menu(){
     int cod,n,*tam, porcentagem;

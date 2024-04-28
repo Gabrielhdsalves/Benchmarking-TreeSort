@@ -1,3 +1,0 @@
-C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking_TreeSort/cmake-build-debug/CMakeFiles/Benchmarking_TreeSort.dir
-C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking_TreeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking_TreeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

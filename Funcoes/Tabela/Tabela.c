@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 #include "Tabela.h"
-#include "iniciarFuncoes/iniciarFuncoes.h"
+#include "iniciarFuncoes.h"
 
 struct metricas {
     long double *trocas;

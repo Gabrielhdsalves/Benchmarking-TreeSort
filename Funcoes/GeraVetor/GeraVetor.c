@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "GeraVetor.h"
-#include "iniciarFuncoes/iniciarFuncoes.h"
+#include "iniciarFuncoes.h"
 
 
 // Implementação das funções do arquivo GerarVetor.h

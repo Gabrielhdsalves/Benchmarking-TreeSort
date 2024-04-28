@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "TreeSort/TreeSort.h"
-#include "GeraVetor/GeraVetor.h"
-#include "Algoritmos_Ordenacao/Algoritmos.h"
+#include "TreeSort.h"
+#include "GeraVetor.h"
+#include "Algoritmos.h"
 #include "iniciarFuncoes.h"
-#include "Tabela/Tabela.h"
+#include "Tabela.h"
 #define COD_SELECAO 0
 #define COD_INSERCAO 1
 #define COD_MERGE 2
