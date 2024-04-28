@@ -3,7 +3,7 @@
 #include <time.h>
 #include "TreeSort/TreeSort.h"
 #include "GeraVetor/GeraVetor.h"
-#include "Algoritmos_Ordenação/Algoritmos.h"
+#include "Algoritmos_Ordenacao/Algoritmos.h"
 #include "iniciarFuncoes.h"
 #include "Tabela/Tabela.h"
 #define COD_SELECAO 0
