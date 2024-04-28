@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Ep1
+# Project: Benchmarking-TreeSort
 # Configurations: Debug
 # =============================================================================
 
@@ -39,111 +39,111 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Ep1
+# Object build statements for EXECUTABLE target Benchmarking-TreeSort
 
 
 #############################################
-# Order-only phony target for Ep1
+# Order-only phony target for Benchmarking-TreeSort
 
-build cmake_object_order_depends_target_Ep1: phony || CMakeFiles/Ep1.dir
+build cmake_object_order_depends_target_Benchmarking-TreeSort: phony || CMakeFiles/Benchmarking-TreeSort.dir
 
-build CMakeFiles/Ep1.dir/Funcoes/GeraVetor/GeraVetor.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/GeraVetor/GeraVetor.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\GeraVetor\GeraVetor.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/GeraVetor/GeraVetor.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/GeraVetor/GeraVetor.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\GeraVetor\GeraVetor.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\GeraVetor
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\GeraVetor
 
-build CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Insertion.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Algoritmos_Ordenação/Insertion.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação\Insertion.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Insertion.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Algoritmos_Ordenação/Insertion.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação\Insertion.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação
 
-build CMakeFiles/Ep1.dir/Funcoes/main.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/main.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\main.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/main.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/main.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\main.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes
 
-build CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Mergesort.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Algoritmos_Ordenação/Mergesort.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação\Mergesort.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Mergesort.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Algoritmos_Ordenação/Mergesort.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação\Mergesort.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação
 
-build CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Quicksort.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Algoritmos_Ordenação/Quicksort.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação\Quicksort.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Quicksort.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Algoritmos_Ordenação/Quicksort.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação\Quicksort.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação
 
-build CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Selection.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Algoritmos_Ordenação/Selection.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação\Selection.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Selection.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Algoritmos_Ordenação/Selection.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação\Selection.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Algoritmos_Ordenação
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Algoritmos_Ordenação
 
-build CMakeFiles/Ep1.dir/Funcoes/Tabela/Tabela.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Tabela/Tabela.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Tabela\Tabela.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Tabela/Tabela.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Tabela/Tabela.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Tabela\Tabela.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Tabela
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Tabela
 
-build CMakeFiles/Ep1.dir/Funcoes/TreeSort/TreeSort.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/TreeSort/TreeSort.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\TreeSort\TreeSort.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/TreeSort/TreeSort.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/TreeSort/TreeSort.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\TreeSort\TreeSort.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\TreeSort
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\TreeSort
 
-build CMakeFiles/Ep1.dir/Funcoes/iniciarFuncoes/iniciarFuncoes.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/iniciarFuncoes/iniciarFuncoes.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\iniciarFuncoes\iniciarFuncoes.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/iniciarFuncoes/iniciarFuncoes.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/iniciarFuncoes/iniciarFuncoes.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\iniciarFuncoes\iniciarFuncoes.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\iniciarFuncoes
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\iniciarFuncoes
 
-build CMakeFiles/Ep1.dir/Funcoes/Menu/Menu.c.obj: C_COMPILER__Ep1_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/Funcoes/Menu/Menu.c || cmake_object_order_depends_target_Ep1
-  DEP_FILE = CMakeFiles\Ep1.dir\Funcoes\Menu\Menu.c.obj.d
+build CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Menu/Menu.c.obj: C_COMPILER__Benchmarking-TreeSort_unscanned_Debug C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/Funcoes/Menu/Menu.c || cmake_object_order_depends_target_Benchmarking-TreeSort
+  DEP_FILE = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Menu\Menu.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
-  OBJECT_DIR = CMakeFiles\Ep1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ep1.dir\Funcoes\Menu
+  INCLUDES = -I"C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Benchmarking-TreeSort.dir\Funcoes\Menu
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Ep1
+# Link build statements for EXECUTABLE target Benchmarking-TreeSort
 
 
 #############################################
-# Link the executable Ep1.exe
+# Link the executable Benchmarking-TreeSort.exe
 
-build Ep1.exe: C_EXECUTABLE_LINKER__Ep1_Debug CMakeFiles/Ep1.dir/Funcoes/GeraVetor/GeraVetor.c.obj CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Insertion.c.obj CMakeFiles/Ep1.dir/Funcoes/main.c.obj CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Mergesort.c.obj CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Quicksort.c.obj CMakeFiles/Ep1.dir/Funcoes/Algoritmos_Ordenação/Selection.c.obj CMakeFiles/Ep1.dir/Funcoes/Tabela/Tabela.c.obj CMakeFiles/Ep1.dir/Funcoes/TreeSort/TreeSort.c.obj CMakeFiles/Ep1.dir/Funcoes/iniciarFuncoes/iniciarFuncoes.c.obj CMakeFiles/Ep1.dir/Funcoes/Menu/Menu.c.obj
+build Benchmarking-TreeSort.exe: C_EXECUTABLE_LINKER__Benchmarking-TreeSort_Debug CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/GeraVetor/GeraVetor.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Insertion.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/main.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Mergesort.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Quicksort.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Algoritmos_Ordenação/Selection.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Tabela/Tabela.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/TreeSort/TreeSort.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/iniciarFuncoes/iniciarFuncoes.c.obj CMakeFiles/Benchmarking-TreeSort.dir/Funcoes/Menu/Menu.c.obj
   FLAGS = -g
   LINK_FLAGS = -Wl,--stack,536870912
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Ep1.dir
+  OBJECT_DIR = CMakeFiles\Benchmarking-TreeSort.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Ep1.exe
-  TARGET_IMPLIB = libEp1.dll.a
-  TARGET_PDB = Ep1.exe.dbg
+  TARGET_FILE = Benchmarking-TreeSort.exe
+  TARGET_IMPLIB = libBenchmarking-TreeSort.dll.a
+  TARGET_PDB = Benchmarking-TreeSort.exe.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\EP1\cmake-build-debug" && C:\Users\gabhe\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\Benchmarking-TreeSort\cmake-build-debug" && C:\Users\gabhe\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -154,7 +154,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\EP1\cmake-build-debug" && C:\Users\gabhe\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\EP1" -B"C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\EP1\cmake-build-debug""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\Benchmarking-TreeSort\cmake-build-debug" && C:\Users\gabhe\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\Benchmarking-TreeSort" -B"C:\Users\gabhe\Desktop\UNIFEI\Algoritmos e Estrutura de Dados II\Benchmarking-TreeSort\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -164,7 +164,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Ep1: phony Ep1.exe
+build Benchmarking-TreeSort: phony Benchmarking-TreeSort.exe
 
 # =============================================================================
 # Folder targets.
@@ -172,9 +172,9 @@ build Ep1: phony Ep1.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/cmake-build-debug
+# Folder: C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/cmake-build-debug
 
-build all: phony Ep1.exe
+build all: phony Benchmarking-TreeSort.exe
 
 # =============================================================================
 # Built-in targets
@@ -183,14 +183,14 @@ build all: phony Ep1.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/EP1/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
+build C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU-C.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-GNU.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-windres.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake C$:/Users/gabhe/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake C$:/Users/gabhe/Desktop/UNIFEI/Algoritmos$ e$ Estrutura$ de$ Dados$ II/Benchmarking-TreeSort/CMakeLists.txt CMakeCache.txt CMakeFiles/3.28.1/CMakeCCompiler.cmake CMakeFiles/3.28.1/CMakeRCCompiler.cmake CMakeFiles/3.28.1/CMakeSystem.cmake: phony
 
 
 #############################################

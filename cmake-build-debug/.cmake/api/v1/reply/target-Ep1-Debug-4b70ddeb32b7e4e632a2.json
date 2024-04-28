@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Ep1.exe"
+			"path" : "Benchmarking-TreeSort.exe"
 		},
 		{
-			"path" : "Ep1.pdb"
+			"path" : "Benchmarking-TreeSort.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/Funcoes"
+					"path" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/Funcoes"
 				}
 			],
 			"language" : "C",
@@ -79,7 +79,7 @@
 			]
 		}
 	],
-	"id" : "Ep1::@6890427a1f51a3e7e1df",
+	"id" : "Benchmarking-TreeSort::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -99,8 +99,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Ep1",
-	"nameOnDisk" : "Ep1.exe",
+	"name" : "Benchmarking-TreeSort",
+	"nameOnDisk" : "Benchmarking-TreeSort.exe",
 	"paths" : 
 	{
 		"build" : ".",

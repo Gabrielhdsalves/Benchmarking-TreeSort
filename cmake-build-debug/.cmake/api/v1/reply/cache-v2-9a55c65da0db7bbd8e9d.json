@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/cmake-build-debug"
+			"value" : "c:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1"
+			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Ep1"
+			"value" : "C:/Program Files (x86)/Benchmarking-TreeSort"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Ep1"
+			"value" : "Benchmarking-TreeSort"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Ep1_BINARY_DIR",
+			"name" : "Benchmarking-TreeSort_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1/cmake-build-debug"
+			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort/cmake-build-debug"
 		},
 		{
-			"name" : "Ep1_IS_TOP_LEVEL",
+			"name" : "Benchmarking-TreeSort_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Ep1_SOURCE_DIR",
+			"name" : "Benchmarking-TreeSort_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/EP1"
+			"value" : "C:/Users/gabhe/Desktop/UNIFEI/Algoritmos e Estrutura de Dados II/Benchmarking-TreeSort"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
