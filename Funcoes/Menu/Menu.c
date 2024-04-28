@@ -50,9 +50,9 @@ void menu(){
           case 0:
               break;
           default:
-              printf("Valor invalido.\n")
+              printf("Valor invalido.\n");
               getchar();
-              break
+              break;
              
       }
     }while(cod !=0);
