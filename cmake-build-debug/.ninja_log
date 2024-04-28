@@ -1,0 +1,7 @@
+# ninja log v5
+14	165	7360408957686151	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/Algoritmos_Ordenacao/Quicksort.c.obj	fafe9f5fcaa801f7
+4	183	7360408957831256	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/Algoritmos_Ordenacao/Insertion.c.obj	374522392790f085
+19	213	7360408958041324	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/Algoritmos_Ordenacao/Selection.c.obj	ec8db2246ec5c96f
+58	224	7360408958286728	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/main.c.obj	74e4fdbe7d23099d
+48	299	7360408959049715	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/TreeSort/TreeSort.c.obj	bdd4f38b7ecd0a2f
+9	302	7360408959069653	CMakeFiles/Benchmarking_TreeSort.dir/Funcoes/Algoritmos_Ordenacao/Mergesort.c.obj	7581bfff619804b3
