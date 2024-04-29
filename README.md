@@ -18,8 +18,8 @@ Equipe:
 ## Índice
 
 - [Sobre](#sobre)
-- [Instalação](#instalação)
-- [Como usar](#como-usar)
+- [Instalação](#Recomendação)
+- [Como usar](#Comando_para_aumentar_a_pilha)
 
 ## Sobre
 
@@ -32,6 +32,7 @@ Equipe:
     <br> Para a execução do algoritmo benchmarking, é altamente recomendado aumentar a pilha de execução para o funcionamento correto dos algoritmos, em especial os algoritmos recursivos. A seguir, é apresentando um comando para aumento de pilha na IDE Clion, o comando deve ser colocado no arquivo "CMakeList.txt"
 </div>
 
+## Comando_para_aumentar_a_pilha
 <div> 
     <span style="color: #0000FF; text-decoration: underline;">
         <br>MATH(EXPR stack_size "512 * 1024 * 1024") # 512 Mb
